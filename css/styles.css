@@ -1,0 +1,13 @@
+/* Dine styles her */
+form {
+  padding: 2rem;
+  background: hsl(264 30% 96%);
+  border-radius: 8px;
+}
+
+.form-felt,
+.dropdown,
+.text {
+  display: grid;
+  grid-template-columns: 1fr;
+}
